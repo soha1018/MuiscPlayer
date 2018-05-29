@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_preview.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\preview.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_album.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\default_album.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_forward.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\forward.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_list.xml.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\layout\\music_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play.xml.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pause.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_media_controller.xml.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\layout\\media_controller.xml"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_bg1.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\icon_bg1.png"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidTest\\MusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidTest\\MusicPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
